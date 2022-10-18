@@ -1,0 +1,355 @@
+body {
+  background-color: grey;
+}
+
+.block {
+  width: 700px;
+  position: relative;
+}
+
+.first-element {
+  display: block;
+  width: 100px;
+  height: 100px;
+  position: relative;
+}
+
+.data-bricks li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.data-bricks li:last-child {
+  margin-right: 0;
+}
+
+.data-bricks {
+  list-style: none;
+}
+
+.a {
+  background-image: url(../images/databricks-icon.webp);
+  background-position: 877px 587px;
+}
+
+.b {
+  background-image: url(../images/databricks-icon.webp);
+  background-position: 720px 587px;
+}
+
+.c {
+  background-image: url(../images/databricks-icon.webp);
+  background-position: 568px 587px;
+}
+
+.d {
+  background-image: url(../images/databricks-icon.webp);
+  background-position: 402px 587px;
+}
+
+.e {
+  background-image: url(../images/databricks-icon.webp);
+  background-position: 245px 587px;
+}
+
+.f {
+  background-image: url(../images/databricks-icon.webp);
+  background-position: 877px 454px;
+}
+
+.g {
+  background-image: url(../images/databricks-icon.webp);
+  background-position: 720px 454px;
+}
+
+.h {
+  background-image: url(../images/databricks-icon.webp);
+  background-position: 568px 454px;
+}
+
+.i {
+  background-image: url(../images/databricks-icon.webp);
+  background-position: 402px 454px;
+}
+
+.j {
+  background-image: url(../images/databricks-icon.webp);
+  background-position: 245px 454px;
+}
+
+.k {
+  background-image: url(../images/databricks-icon.webp);
+  background-position: 877px 332px;
+}
+
+.l {
+  background-image: url(../images/databricks-icon.webp);
+  background-position: 720px 332px;
+}
+
+.m {
+  background-image: url(../images/databricks-icon.webp);
+  background-position: 568px 332px;
+}
+
+.n {
+  background-image: url(../images/databricks-icon.webp);
+  background-position: 402px 332px;
+}
+
+.o {
+  background-image: url(../images/databricks-icon.webp);
+  background-position: 245px 332px;
+}
+
+.p {
+  background-image: url(../images/databricks-icon.webp);
+  background-position: 877px 203px;
+}
+
+.r {
+  background-image: url(../images/databricks-icon.webp);
+  background-position: 720px 203px;
+}
+
+.s {
+  background-image: url(../images/databricks-icon.webp);
+  background-position: 568px 203px;
+}
+
+.t {
+  background-image: url(../images/databricks-icon.webp);
+  background-position: 402px 203px;
+}
+
+.u {
+  background-image: url(../images/databricks-icon.webp);
+  background-position: 245px 203px;
+}
+
+/************************************* SecondSprite Table  ************************************************/
+
+.states {
+  width: 839px;
+  position: relative;
+}
+
+.second-element {
+  display: block;
+  width: 250px;
+  height: 250px;
+  position: relative;
+}
+
+.empty-states li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.empty-states li:last-child {
+  margin-right: 0;
+}
+
+.empty-states {
+  list-style: none;
+}
+
+.ab {
+  background-image: url(../images/empty-states.png);
+  background-position: -171px -88px;
+}
+
+.ac {
+  background-image: url(../images/empty-states.png);
+  background-position: -673px -88px;
+}
+
+.ad {
+  background-image: url(../images/empty-states.png);
+  background-position: -1178px -88px;
+}
+
+.ae {
+  background-image: url(../images/empty-states.png);
+  background-position: -171px -455px;
+}
+
+.af {
+  background-image: url(../images/empty-states.png);
+  background-position: -661px -460px;
+}
+
+.ag {
+  background-image: url(../images/empty-states.png);
+  background-position: -1178px -479px;
+}
+
+.ah {
+  background-image: url(../images/empty-states.png);
+  background-position: -165px -838px;
+}
+
+.ai {
+  background-image: url(../images/empty-states.png);
+  background-position: -669px -849px;
+}
+
+.aj {
+  background-image: url(../images/empty-states.png);
+  background-position: -1181px -861px;
+}
+
+/******************************* Third Element *******************************/
+
+.spots {
+  width: 1092px;
+  position: relative;
+}
+
+.third-element {
+  display: block;
+  width: 200px;
+  height: 200px;
+  position: relative;
+}
+
+.test-spots li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.test-spots li:last-child {
+  margin-right: 0;
+}
+
+.test-spots {
+  list-style: none;
+}
+
+.ba {
+  background-image: url(../images/test-spots.webp);
+  background-position: 1436px 1012px;
+}
+
+.bb {
+  background-image: url(../images/test-spots.webp);
+  background-position: 1077px 1012px;
+}
+
+.bc {
+  background-image: url(../images/test-spots.webp);
+  background-position: 718px 1012px;
+}
+
+.bd {
+  background-image: url(../images/test-spots.webp);
+  background-position: 359px 1012px;
+}
+
+.be {
+  background-image: url(../images/test-spots.webp);
+  background-position: 1436px 704px;
+}
+
+.bf {
+  background-image: url(../images/test-spots.webp);
+  background-position: 1077px 704px;
+}
+
+.bg {
+  background-image: url(../images/test-spots.webp);
+  background-position: 718px 704px;
+}
+
+.bh {
+  background-image: url(../images/test-spots.webp);
+  background-position: 359px 704px;
+}
+
+.bi {
+  background-image: url(../images/test-spots.webp);
+  background-position: 1436px 396px;
+}
+
+.bj {
+  background-image: url(../images/test-spots.webp);
+  background-position: 1077px 396px;
+}
+
+.bk {
+  background-image: url(../images/test-spots.webp);
+  background-position: 718px 396px;
+}
+
+.bl {
+  background-image: url(../images/test-spots.webp);
+  background-position: 359px 396px;
+}
+/********************************** Toggle's ************************************************/
+
+.chk[type="checkbox"] {
+  display: none;
+}
+
+.chk[type="checkbox"] + label {
+  width: 231px;
+  height: 99px;
+  display: inline-block;
+  text-indent: -9999px;
+  cursor: pointer;
+  border-radius: 60px;
+}
+
+.toggle1[type="checkbox"]:checked + label {
+  background-position: 896px 487px;
+}
+
+.toggle1[type="checkbox"] + label {
+  background-image: url(../images/toggle.webp);
+  background-position: 896px 604px;
+}
+
+.toggle2[type="checkbox"]:checked + label {
+  background-position: 896px 362px;
+}
+
+.toggle2[type="checkbox"] + label {
+  background-image: url(../images/toggle.webp);
+  background-position: 896px 247px;
+}
+
+.toggle3[type="checkbox"]:checked + label {
+  background-position: 616px 362px;
+}
+
+.toggle3[type="checkbox"] + label {
+  background-image: url(../images/toggle.webp);
+  background-position: 616px 247px;
+}
+
+.toggle4[type="checkbox"]:checked + label {
+  background-position: 616px 602px;
+}
+
+.toggle4[type="checkbox"] + label {
+  background-image: url(../images/toggle.webp);
+  background-position: 616px 486px;
+}
+
+.toggle5[type="checkbox"]:checked + label {
+  background-position: 335px 603px;
+}
+
+.toggle5[type="checkbox"] + label {
+  background-image: url(../images/toggle.webp);
+  background-position: 335px 486px;
+}
+
+.toggle6[type="checkbox"]:checked + label {
+  background-position: 335px 362px;
+}
+
+.toggle6[type="checkbox"] + label {
+  background-image: url(../images/toggle.webp);
+  background-position: 335px 246px;
+}
